@@ -7,3 +7,8 @@
 - https://roadmap.sh/git-github?r=git-github-beginner "( Git/Github Roadmap )"
 - https://roadmap.sh/api-design "( API Design Roadmap )"
 - https://roadmap.sh/ai-data-scientist "( AI & Data Scientist Roadmap )"
+
+#  __  __ ___ _  __   ___          
+# |  \/  | __| |/ /__|   \ _____ __
+# | |\/| | _|| ' <___| |) / -_) V /
+# |_|  |_|_| |_|\_\  |___/\___|\_/     
