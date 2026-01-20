@@ -1,4 +1,4 @@
-# Roadmap Resources
+# Roadmap Side Resources
 
 - https://roadmap.sh/ai-engineer "( AI Engineering Roadmap )"
 - https://roadmap.sh/prompt-engineering "( Prompt Engineering Roadmap )"
@@ -8,7 +8,4 @@
 - https://roadmap.sh/api-design "( API Design Roadmap )"
 - https://roadmap.sh/ai-data-scientist "( AI & Data Scientist Roadmap )"
 
- __  __ ___ _  __   ___          
-|  \/  | __| |/ /__|   \ _____ __
-| |\/| | _|| ' <___| |) / -_) V /
-|_|  |_|_| |_|\_\  |___/\___|\_/   
+# MFK-Dev
