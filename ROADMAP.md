@@ -8,7 +8,4 @@
   - ALso, i made the Gemini AI's roadmap a terminal with python, it is named as "main.py", you can check that, it is nice.
   - Everyday i work on the roadmap, i will save my process on the files, those files will be in the folder: "Progress".
 
--  __  __ ___ _  __   ___          
-- |  \/  | __| |/ /__|   \ _____ __
-- | |\/| | _|| ' <___| |) / -_) V /
-- |_|  |_|_| |_|\_\  |___/\___|\_/   
+# MFK-Dev
